@@ -22,6 +22,16 @@
     <build>
         <pluginManagement>
             <plugins>
+<pluginManagement>
+    <plugins>
+        ...
+        <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>2.2</version>
+        </plugin>
+    </plugins>
+</pluginManagement>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
