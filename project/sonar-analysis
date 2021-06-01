@@ -1,5 +1,6 @@
-sonar.host.url=http://3.14.133.227:9000/
-sonar.login=7fec045ea326829b93ef25baec768ba7cd66c022
+sonar.host.url=http://18.117.11.83:9000/
+sonar.login=admin
+sonar.password=admin 
 sonar.projectKey=sonarqubetest
 sonar.language=java
 sonar.sources=project/src/main
