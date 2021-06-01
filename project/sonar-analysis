@@ -1,0 +1,7 @@
+sonar.host.url=http://3.14.133.227:9000/
+sonar.login=7fec045ea326829b93ef25baec768ba7cd66c022
+sonar.projectKey=sonarqubetest
+sonar.language=java
+sonar.sources=project/src/main
+sonar.sourceEncoding=UTF-8
+sonar.tests=project/src/test
