@@ -1,4 +1,5 @@
-sonar.login=e8461cabc1bf1a578706828b21bab80016723e6f
+sonar.login=admin
+    D sonar.password=admin
       sonar.projectBaseDir=/var/lib/jenkins/workspace/jenkins-sonar/
         sonar.projectKey=sonarqubetest1
         sonar.projectName=project
