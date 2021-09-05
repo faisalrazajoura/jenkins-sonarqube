@@ -22,14 +22,6 @@
     <build>
         <pluginManagement>
             <plugins>
-<pluginManagement>
-    <plugins>
-            <groupId>org.codehaus.mojo</groupId>
-            <artifactId>sonar-maven-plugin</artifactId>
-            <version>2.2</version>
-        </plugin>
-    </plugins>
-</pluginManagement>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
@@ -58,7 +50,7 @@
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                    http://13.127.113.117:9000/
+                    http://65.2.81.129:9000
                 </sonar.host.url>
             </properties>
         </profile>
